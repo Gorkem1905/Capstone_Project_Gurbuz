@@ -1,0 +1,114 @@
+[
+  {
+    "line": 5,
+    "elements": [
+      {
+        "line": 7,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 64827600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User is on Retail website",
+            "match": {
+              "location": "stepDefinitions.LaptopsNotebooksStep.user_is_on_retail_website()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-02-17T23:03:04.413Z",
+        "before": [
+          {
+            "result": {
+              "duration": 4765466500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.InitiAlizer.beforeHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 18,
+        "name": "User empty Shopping cart message displays",
+        "description": "",
+        "id": "tekschool-retail-page;user-empty-shopping-cart-message-displays",
+        "after": [
+          {
+            "result": {
+              "duration": 406910400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.InitiAlizer.afterHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 945471500,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "User click on shopping cart",
+            "match": {
+              "location": "stepDefinitions.HomePageStep.user_click_on_shopping_cart()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 274266200,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "\"Your shopping cart is empty!\" message should display",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Your shopping cart is empty!\"",
+                  "offset": 0
+                }
+              ],
+              "location": "stepDefinitions.HomePageStep.message_should_display(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@HomePage"
+          },
+          {
+            "name": "@EmptyShopingCart"
+          }
+        ]
+      }
+    ],
+    "name": "Tekschool Retail Page",
+    "description": "",
+    "id": "tekschool-retail-page",
+    "keyword": "Feature",
+    "uri": "classpath:features/HomePage.feature",
+    "tags": [
+      {
+        "name": "@HomePage",
+        "type": "Tag",
+        "location": {
+          "line": 3,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,516 @@
+2022-02-13 18:35:20,435 - logger_File -INFO - Scenario Userify all items are present in Desktop tab Started
+2022-02-13 18:35:26,907 - logger_File -INFO - User Clicks On Desktop
+2022-02-13 18:35:27,972 - logger_File -INFO - Click onShow all Desktops
+2022-02-13 18:35:28,260 - logger_File -INFO - User Sees All Items
+2022-02-13 18:35:28,665 - logger_File -INFO - Scenario Userify all items are present in Desktop tab PASSED
+2022-02-13 18:39:58,101 - logger_File -INFO - Scenario Userify all items are present in Desktop tab Started
+2022-02-13 18:40:02,088 - logger_File -INFO - Scenario Userify all items are present in Desktop tab UNDEFINED
+2022-02-13 18:40:02,104 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-02-13 18:40:05,098 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart UNDEFINED
+2022-02-13 18:45:48,360 - logger_File -INFO - Scenario Userify all items are present in Desktop tab Started
+2022-02-13 18:45:54,808 - logger_File -INFO - User Clicks On Desktop
+2022-02-13 18:45:56,011 - logger_File -INFO - Click onShow all Desktops
+2022-02-13 18:45:56,311 - logger_File -INFO - User Sees All Items
+2022-02-13 18:45:56,863 - logger_File -INFO - Scenario Userify all items are present in Desktop tab PASSED
+2022-02-13 18:45:56,912 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-02-13 18:46:00,079 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart UNDEFINED
+2022-02-13 19:18:04,810 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-02-13 19:18:10,757 - logger_File -INFO - User Clicks On Desktop
+2022-02-13 19:18:11,632 - logger_File -INFO - Click onShow all Desktops
+2022-02-13 19:18:13,898 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart FAILED
+2022-02-13 19:20:44,721 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-02-13 19:20:49,341 - logger_File -INFO - User Clicks On Desktop
+2022-02-13 19:20:50,259 - logger_File -INFO - Click onShow all Desktops
+2022-02-13 19:20:56,971 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart FAILED
+2022-02-13 19:27:17,632 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-02-13 19:27:23,438 - logger_File -INFO - User Clicks On Desktop
+2022-02-13 19:27:24,873 - logger_File -INFO - Click onShow all Desktops
+2022-02-13 19:27:31,238 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-02-13 19:34:47,780 - logger_File -INFO - Scenario Userify all items are present in Desktop tab Started
+2022-02-13 19:34:51,871 - logger_File -INFO - Scenario Userify all items are present in Desktop tab UNDEFINED
+2022-02-13 19:34:51,910 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-02-13 19:34:55,051 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart UNDEFINED
+2022-02-13 19:34:55,065 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-02-13 19:34:58,315 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2022-02-13 19:44:36,358 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-02-13 19:44:40,100 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2022-02-13 19:46:55,796 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-02-13 19:46:59,761 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2022-02-13 19:47:55,211 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-02-13 19:47:59,943 - logger_File -INFO - User Clicks On Desktop
+2022-02-13 19:48:00,863 - logger_File -INFO - Click onShow all Desktops
+2022-02-13 19:48:07,359 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-02-13 19:54:51,767 - logger_File -INFO - Scenario Userify all items are present in Desktop tab Started
+2022-02-13 19:54:56,647 - logger_File -INFO - User Clicks On Desktop
+2022-02-13 19:54:57,557 - logger_File -INFO - Click onShow all Desktops
+2022-02-13 19:54:57,960 - logger_File -INFO - User Sees All Items
+2022-02-13 19:54:58,208 - logger_File -INFO - Scenario Userify all items are present in Desktop tab PASSED
+2022-02-13 19:54:58,234 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-02-13 19:55:02,081 - logger_File -INFO - User Clicks On Desktop
+2022-02-13 19:55:03,036 - logger_File -INFO - Click onShow all Desktops
+2022-02-13 19:55:10,979 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-02-13 19:55:10,987 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-02-13 19:55:14,584 - logger_File -INFO - User Clicks On Desktop
+2022-02-13 19:55:15,518 - logger_File -INFO - Click onShow all Desktops
+2022-02-13 19:55:21,837 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-02-13 19:55:21,921 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-13 19:55:25,670 - logger_File -INFO - User Clicks On Desktop
+2022-02-13 19:55:26,600 - logger_File -INFO - Click onShow all Desktops
+2022-02-13 19:55:26,857 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab UNDEFINED
+2022-02-13 20:32:49,541 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-13 20:32:54,483 - logger_File -INFO - User Clicks On Desktop
+2022-02-13 20:32:55,391 - logger_File -INFO - Click onShow all Desktops
+2022-02-13 20:33:01,697 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-02-13 20:34:32,069 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-13 20:34:36,551 - logger_File -INFO - User Clicks On Desktop
+2022-02-13 20:34:37,475 - logger_File -INFO - Click onShow all Desktops
+2022-02-13 20:34:40,107 - logger_File -INFO - user filled out the review section
+2022-02-13 20:35:13,584 - logger_File -INFO - Scenario Userify all items are present in Desktop tab Started
+2022-02-13 20:35:14,581 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-02-13 20:35:19,625 - logger_File -INFO - User Clicks On Desktop
+2022-02-13 20:35:21,433 - logger_File -INFO - Click onShow all Desktops
+2022-02-13 20:35:21,680 - logger_File -INFO - User Sees All Items
+2022-02-13 20:35:21,924 - logger_File -INFO - Scenario Userify all items are present in Desktop tab PASSED
+2022-02-13 20:35:21,952 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-02-13 20:35:25,669 - logger_File -INFO - User Clicks On Desktop
+2022-02-13 20:35:26,465 - logger_File -INFO - Click onShow all Desktops
+2022-02-13 20:35:33,064 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-02-13 20:35:33,074 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-02-13 20:35:36,652 - logger_File -INFO - User Clicks On Desktop
+2022-02-13 20:35:37,612 - logger_File -INFO - Click onShow all Desktops
+2022-02-13 20:35:40,012 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-02-13 20:35:40,025 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-13 20:35:43,724 - logger_File -INFO - User Clicks On Desktop
+2022-02-13 20:35:44,561 - logger_File -INFO - Click onShow all Desktops
+2022-02-13 20:35:47,025 - logger_File -INFO - user filled out the review section
+2022-02-13 20:35:51,513 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-02-13 20:38:29,494 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-13 20:38:33,946 - logger_File -INFO - User Clicks On Desktop
+2022-02-13 20:38:34,912 - logger_File -INFO - Click onShow all Desktops
+2022-02-13 20:38:37,292 - logger_File -INFO - user filled out the review section
+2022-02-13 20:38:41,718 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-02-13 20:39:43,268 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-13 20:39:47,910 - logger_File -INFO - User Clicks On Desktop
+2022-02-13 20:39:48,759 - logger_File -INFO - Click onShow all Desktops
+2022-02-13 20:39:51,193 - logger_File -INFO - user filled out the review section
+2022-02-13 20:39:55,713 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-02-13 20:41:35,646 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-13 20:41:40,224 - logger_File -INFO - User Clicks On Desktop
+2022-02-13 20:41:41,057 - logger_File -INFO - Click onShow all Desktops
+2022-02-13 20:41:43,582 - logger_File -INFO - user filled out the review section
+2022-02-13 20:41:48,000 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-02-17 10:35:43,648 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-17 10:35:55,992 - logger_File -INFO - User Clicks On Desktop
+2022-02-17 10:35:56,973 - logger_File -INFO - Click onShow all Desktops
+2022-02-17 10:35:59,218 - logger_File -INFO - user clicks on Canon 5D
+2022-02-17 10:35:59,835 - logger_File -INFO - user clicks on write review
+2022-02-17 10:36:00,879 - logger_File -INFO - user filled out the review section
+2022-02-17 10:36:01,273 - logger_File -INFO - user clicks on continue
+2022-02-17 10:36:01,497 - logger_File -INFO - user sees reveiew message
+2022-02-17 10:36:05,713 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-02-17 10:36:45,347 - logger_File -INFO - Scenario Userify all items are present in Desktop tab Started
+2022-02-17 10:36:50,950 - logger_File -INFO - User Clicks On Desktop
+2022-02-17 10:36:51,883 - logger_File -INFO - Click onShow all Desktops
+2022-02-17 10:36:52,232 - logger_File -INFO - User Sees All Items
+2022-02-17 10:36:52,525 - logger_File -INFO - Scenario Userify all items are present in Desktop tab PASSED
+2022-02-17 10:36:52,567 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-02-17 10:36:57,047 - logger_File -INFO - User Clicks On Desktop
+2022-02-17 10:36:58,697 - logger_File -INFO - Click onShow all Desktops
+2022-02-17 10:37:00,918 - logger_File -INFO - Adding Cannon 5D to cart
+2022-02-17 10:37:01,453 - logger_File -INFO - User Selects quantity
+2022-02-17 10:37:01,858 - logger_File -INFO - Add to cart
+2022-02-17 10:37:02,224 - logger_File -INFO - user sees message
+2022-02-17 10:37:06,411 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-02-17 10:37:06,426 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-02-17 10:37:10,786 - logger_File -INFO - User Clicks On Desktop
+2022-02-17 10:37:11,744 - logger_File -INFO - Click onShow all Desktops
+2022-02-17 10:37:22,612 - logger_File -INFO - Adding Cannon 5D to cart
+2022-02-17 10:37:23,091 - logger_File -INFO - user selects color
+2022-02-17 10:37:23,504 - logger_File -INFO - User Selects quantity
+2022-02-17 10:37:23,905 - logger_File -INFO - Add to cart
+2022-02-17 10:37:24,413 - logger_File -INFO - user sees message
+2022-02-17 10:37:24,889 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-02-17 10:37:24,909 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-17 10:37:29,233 - logger_File -INFO - User Clicks On Desktop
+2022-02-17 10:37:30,373 - logger_File -INFO - Click onShow all Desktops
+2022-02-17 10:37:33,618 - logger_File -INFO - user clicks on Canon 5D
+2022-02-17 10:37:34,155 - logger_File -INFO - user clicks on write review
+2022-02-17 10:37:34,895 - logger_File -INFO - user filled out the review section
+2022-02-17 10:37:35,168 - logger_File -INFO - user clicks on continue
+2022-02-17 10:37:35,422 - logger_File -INFO - user sees reveiew message
+2022-02-17 10:37:39,782 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-02-17 10:48:47,644 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-17 10:48:53,059 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2022-02-17 11:53:51,560 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-17 11:53:57,765 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart FAILED
+2022-02-17 11:55:10,005 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-17 11:55:44,589 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart FAILED
+2022-02-17 11:57:30,358 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-17 11:58:35,310 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-17 11:58:43,508 - logger_File -INFO - Add to cart
+2022-02-17 11:58:43,783 - logger_File -INFO - user sees message
+2022-02-17 11:58:48,473 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart FAILED
+2022-02-17 12:03:18,017 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-17 12:03:25,585 - logger_File -INFO - Add to cart
+2022-02-17 12:03:25,838 - logger_File -INFO - user sees message
+2022-02-17 12:03:30,622 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart FAILED
+2022-02-17 12:06:43,795 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-17 12:06:51,487 - logger_File -INFO - Add to cart
+2022-02-17 12:06:51,787 - logger_File -INFO - user sees message
+2022-02-17 12:06:56,497 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart FAILED
+2022-02-17 12:12:37,992 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-17 12:12:45,288 - logger_File -INFO - Add to cart
+2022-02-17 12:12:45,542 - logger_File -INFO - user sees message
+2022-02-17 12:12:50,215 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart PASSED
+2022-02-17 12:22:07,158 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-17 12:22:14,105 - logger_File -INFO - click on laptop
+2022-02-17 12:22:15,189 - logger_File -INFO - click on showall
+2022-02-17 12:22:17,193 - logger_File -INFO - click on mac
+2022-02-17 12:22:17,746 - logger_File -INFO - Add to cart
+2022-02-17 12:22:17,974 - logger_File -INFO - user sees message
+2022-02-17 12:22:18,281 - logger_File -INFO - 1 item(s)-$602.00
+2022-02-17 12:22:18,825 - logger_File -INFO - clickcart
+2022-02-17 12:22:19,340 - logger_File -INFO - click on X
+2022-02-17 12:22:19,742 - logger_File -INFO - emptymessage
+2022-02-17 12:22:24,465 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart PASSED
+2022-02-17 12:22:24,534 - logger_File -INFO - Scenario Product Comparison Started
+2022-02-17 12:22:28,735 - logger_File -INFO - click on laptop
+2022-02-17 12:22:29,651 - logger_File -INFO - click on showall
+2022-02-17 12:22:29,878 - logger_File -INFO - Scenario Product Comparison UNDEFINED
+2022-02-17 12:48:37,031 - logger_File -INFO - Scenario Product Comparison Started
+2022-02-17 12:48:42,070 - logger_File -INFO - click on laptop
+2022-02-17 12:48:43,095 - logger_File -INFO - click on showall
+2022-02-17 12:48:43,599 - logger_File -INFO - compareButton
+2022-02-17 12:48:44,071 - logger_File -INFO - compareButton
+2022-02-17 12:48:44,359 - logger_File -INFO - user sees message
+2022-02-17 12:48:45,001 - logger_File -INFO - productCompare
+2022-02-17 12:48:45,383 - logger_File -INFO - comparisonChart
+2022-02-17 12:48:49,712 - logger_File -INFO - Scenario Product Comparison PASSED
+2022-02-17 12:55:02,275 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-17 12:55:08,200 - logger_File -INFO - click on laptop
+2022-02-17 12:55:09,365 - logger_File -INFO - click on showall
+2022-02-17 12:55:11,989 - logger_File -INFO - click on mac
+2022-02-17 12:55:12,604 - logger_File -INFO - Add to cart
+2022-02-17 12:55:12,877 - logger_File -INFO - user sees message
+2022-02-17 12:55:13,186 - logger_File -INFO - 1 item(s)-$602.00
+2022-02-17 12:55:13,696 - logger_File -INFO - clickcart
+2022-02-17 12:55:14,128 - logger_File -INFO - click on X
+2022-02-17 12:55:14,516 - logger_File -INFO - emptymessage
+2022-02-17 12:55:19,122 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart PASSED
+2022-02-17 12:55:19,148 - logger_File -INFO - Scenario Product Comparison Started
+2022-02-17 12:55:23,651 - logger_File -INFO - click on laptop
+2022-02-17 12:55:24,429 - logger_File -INFO - click on showall
+2022-02-17 12:55:24,908 - logger_File -INFO - compareButton
+2022-02-17 12:55:26,772 - logger_File -INFO - compareButton
+2022-02-17 12:56:01,103 - logger_File -INFO - Scenario Product Comparison FAILED
+2022-02-17 12:56:01,170 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2022-02-17 12:56:05,641 - logger_File -INFO - click on laptop
+2022-02-17 12:56:06,480 - logger_File -INFO - click on showall
+2022-02-17 12:56:06,746 - logger_File -INFO - Scenario Adding an item to Wish list UNDEFINED
+2022-02-17 13:10:28,295 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2022-02-17 13:10:33,412 - logger_File -INFO - click on laptop
+2022-02-17 13:10:34,345 - logger_File -INFO - click on showall
+2022-02-17 13:10:35,064 - logger_File -INFO - Scenario Adding an item to Wish list FAILED
+2022-02-17 13:13:05,883 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2022-02-17 13:13:12,068 - logger_File -INFO - click on laptop
+2022-02-17 13:13:13,242 - logger_File -INFO - click on showall
+2022-02-17 13:13:14,663 - logger_File -INFO - Scenario Adding an item to Wish list PASSED
+2022-02-17 13:14:51,577 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-17 13:14:57,072 - logger_File -INFO - click on laptop
+2022-02-17 13:14:58,596 - logger_File -INFO - click on showall
+2022-02-17 13:15:02,100 - logger_File -INFO - click on mac
+2022-02-17 13:15:02,503 - logger_File -INFO - Add to cart
+2022-02-17 13:15:02,794 - logger_File -INFO - user sees message
+2022-02-17 13:15:03,119 - logger_File -INFO - 1 item(s)-$602.00
+2022-02-17 13:15:03,524 - logger_File -INFO - clickcart
+2022-02-17 13:15:03,978 - logger_File -INFO - click on X
+2022-02-17 13:15:04,406 - logger_File -INFO - emptymessage
+2022-02-17 13:15:08,736 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart PASSED
+2022-02-17 13:15:08,780 - logger_File -INFO - Scenario Product Comparison Started
+2022-02-17 13:15:12,830 - logger_File -INFO - click on laptop
+2022-02-17 13:15:13,818 - logger_File -INFO - click on showall
+2022-02-17 13:15:14,337 - logger_File -INFO - compareButton
+2022-02-17 13:15:14,827 - logger_File -INFO - compareButton
+2022-02-17 13:15:15,097 - logger_File -INFO - user sees message
+2022-02-17 13:15:15,827 - logger_File -INFO - productCompare
+2022-02-17 13:15:16,092 - logger_File -INFO - comparisonChart
+2022-02-17 13:15:16,405 - logger_File -INFO - Scenario Product Comparison PASSED
+2022-02-17 13:15:16,417 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2022-02-17 13:15:20,689 - logger_File -INFO - click on laptop
+2022-02-17 13:15:21,550 - logger_File -INFO - click on showall
+2022-02-17 13:15:22,138 - logger_File -INFO - Scenario Adding an item to Wish list PASSED
+2022-02-17 13:15:22,184 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started
+2022-02-17 13:15:27,226 - logger_File -INFO - click on laptop
+2022-02-17 13:15:28,563 - logger_File -INFO - click on showall
+2022-02-17 13:15:28,815 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 UNDEFINED
+2022-02-17 13:35:13,185 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started
+2022-02-17 13:35:19,070 - logger_File -INFO - click on laptop
+2022-02-17 13:35:19,938 - logger_File -INFO - click on showall
+2022-02-17 13:35:31,653 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-02-17 13:49:19,343 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started
+2022-02-17 13:49:24,681 - logger_File -INFO - click on laptop
+2022-02-17 13:49:25,593 - logger_File -INFO - click on showall
+2022-02-17 13:49:27,524 - logger_File -INFO - click on item
+2022-02-17 13:49:28,013 - logger_File -INFO - price tag present
+2022-02-17 13:49:32,360 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-02-17 13:55:15,511 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-17 13:55:23,262 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2022-02-17 15:47:20,192 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-17 15:47:26,804 - logger_File -INFO - clickMyAccount
+2022-02-17 15:47:27,504 - logger_File -INFO - clickLogin
+2022-02-17 15:47:28,013 - logger_File -INFO - enterUsernamePass
+2022-02-17 15:47:28,626 - logger_File -INFO - clickLogin
+2022-02-17 15:47:28,980 - logger_File -INFO - userLoggedin
+2022-02-17 15:48:28,261 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-17 15:48:33,099 - logger_File -INFO - clickMyAccount
+2022-02-17 15:48:33,892 - logger_File -INFO - clickLogin
+2022-02-17 15:48:34,420 - logger_File -INFO - enterUsernamePass
+2022-02-17 15:48:35,140 - logger_File -INFO - clickLogin
+2022-02-17 15:48:35,395 - logger_File -INFO - userLoggedin
+2022-02-17 15:48:36,086 - logger_File -INFO - clickRegisterAffiliate
+2022-02-17 15:48:36,608 - logger_File -INFO - fillAffiliateForm
+2022-02-17 15:48:36,897 - logger_File -INFO - checkAboutUs
+2022-02-17 15:48:37,507 - logger_File -INFO - clickContinue
+2022-02-17 15:51:26,424 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-17 15:51:34,541 - logger_File -INFO - clickMyAccount
+2022-02-17 15:51:35,505 - logger_File -INFO - clickLogin
+2022-02-17 15:51:36,447 - logger_File -INFO - enterUsernamePass
+2022-02-17 15:51:37,302 - logger_File -INFO - clickLogin
+2022-02-17 15:51:37,693 - logger_File -INFO - userLoggedin
+2022-02-17 15:51:38,528 - logger_File -INFO - clickRegisterAffiliate
+2022-02-17 15:51:39,862 - logger_File -INFO - fillAffiliateForm
+2022-02-17 15:51:40,375 - logger_File -INFO - checkAboutUs
+2022-02-17 15:51:41,131 - logger_File -INFO - clickContinue
+2022-02-17 15:52:11,536 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-02-17 15:55:49,029 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-17 15:55:54,789 - logger_File -INFO - clickMyAccount
+2022-02-17 15:55:55,480 - logger_File -INFO - clickLogin
+2022-02-17 15:55:56,062 - logger_File -INFO - enterUsernamePass
+2022-02-17 15:55:56,798 - logger_File -INFO - clickLogin
+2022-02-17 15:55:57,092 - logger_File -INFO - userLoggedin
+2022-02-17 15:55:57,682 - logger_File -INFO - clickRegisterAffiliate
+2022-02-17 15:55:58,226 - logger_File -INFO - fillAffiliateForm
+2022-02-17 15:56:00,574 - logger_File -INFO - checkAboutUs
+2022-02-17 15:56:01,225 - logger_File -INFO - clickContinue
+2022-02-17 15:56:35,527 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-02-17 15:57:05,607 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-17 15:57:10,734 - logger_File -INFO - clickMyAccount
+2022-02-17 15:57:11,585 - logger_File -INFO - clickLogin
+2022-02-17 15:57:12,420 - logger_File -INFO - enterUsernamePass
+2022-02-17 15:57:13,248 - logger_File -INFO - clickLogin
+2022-02-17 15:57:13,557 - logger_File -INFO - userLoggedin
+2022-02-17 15:57:14,193 - logger_File -INFO - clickRegisterAffiliate
+2022-02-17 15:57:14,979 - logger_File -INFO - fillAffiliateForm
+2022-02-17 15:57:17,335 - logger_File -INFO - checkAboutUs
+2022-02-17 15:57:18,259 - logger_File -INFO - clickContinue
+2022-02-17 15:57:18,963 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2022-02-17 16:00:16,252 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-17 16:00:22,562 - logger_File -INFO - clickMyAccount
+2022-02-17 16:00:23,298 - logger_File -INFO - clickLogin
+2022-02-17 16:00:23,827 - logger_File -INFO - enterUsernamePass
+2022-02-17 16:00:24,562 - logger_File -INFO - clickLogin
+2022-02-17 16:00:24,823 - logger_File -INFO - userLoggedin
+2022-02-17 16:00:55,200 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-02-17 16:00:55,311 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-17 16:00:59,627 - logger_File -INFO - clickMyAccount
+2022-02-17 16:01:00,292 - logger_File -INFO - clickLogin
+2022-02-17 16:01:00,815 - logger_File -INFO - enterUsernamePass
+2022-02-17 16:01:01,498 - logger_File -INFO - clickLogin
+2022-02-17 16:01:01,778 - logger_File -INFO - userLoggedin
+2022-02-17 16:01:02,061 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer UNDEFINED
+2022-02-17 16:36:43,498 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-17 16:36:49,017 - logger_File -INFO - clickMyAccount
+2022-02-17 16:36:49,638 - logger_File -INFO - clickLogin
+2022-02-17 16:36:50,122 - logger_File -INFO - enterUsernamePass
+2022-02-17 16:36:50,828 - logger_File -INFO - clickLogin
+2022-02-17 16:36:51,142 - logger_File -INFO - userLoggedin
+2022-02-17 16:36:52,523 - logger_File -INFO - editAffiliate
+2022-02-17 16:37:22,901 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-02-17 16:46:19,644 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-17 16:46:25,831 - logger_File -INFO - clickMyAccount
+2022-02-17 16:46:26,519 - logger_File -INFO - clickLogin
+2022-02-17 16:46:27,092 - logger_File -INFO - enterUsernamePass
+2022-02-17 16:46:28,074 - logger_File -INFO - clickLogin
+2022-02-17 16:46:28,380 - logger_File -INFO - userLoggedin
+2022-02-17 16:46:29,656 - logger_File -INFO - editAffiliate
+2022-02-17 16:48:16,377 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-17 16:48:21,876 - logger_File -INFO - clickMyAccount
+2022-02-17 16:48:22,614 - logger_File -INFO - clickLogin
+2022-02-17 16:48:23,114 - logger_File -INFO - enterUsernamePass
+2022-02-17 16:48:23,929 - logger_File -INFO - clickLogin
+2022-02-17 16:48:24,193 - logger_File -INFO - userLoggedin
+2022-02-17 16:48:25,381 - logger_File -INFO - editAffiliate
+2022-02-17 16:48:55,884 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-02-17 16:50:22,113 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-17 16:50:29,491 - logger_File -INFO - clickMyAccount
+2022-02-17 16:50:30,359 - logger_File -INFO - clickLogin
+2022-02-17 16:50:30,860 - logger_File -INFO - enterUsernamePass
+2022-02-17 16:50:31,612 - logger_File -INFO - clickLogin
+2022-02-17 16:50:31,903 - logger_File -INFO - userLoggedin
+2022-02-17 16:50:32,854 - logger_File -INFO - editAffiliate
+2022-02-17 16:51:03,214 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-02-17 16:54:59,413 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-17 16:55:04,864 - logger_File -INFO - clickMyAccount
+2022-02-17 16:55:05,595 - logger_File -INFO - clickLogin
+2022-02-17 16:55:06,086 - logger_File -INFO - enterUsernamePass
+2022-02-17 16:55:07,045 - logger_File -INFO - clickLogin
+2022-02-17 16:55:07,403 - logger_File -INFO - userLoggedin
+2022-02-17 16:55:08,788 - logger_File -INFO - editAffiliate
+2022-02-17 16:55:39,249 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-02-17 16:58:33,102 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-17 16:58:38,558 - logger_File -INFO - clickMyAccount
+2022-02-17 16:58:39,279 - logger_File -INFO - clickLogin
+2022-02-17 16:58:39,814 - logger_File -INFO - enterUsernamePass
+2022-02-17 16:58:40,566 - logger_File -INFO - clickLogin
+2022-02-17 16:58:40,796 - logger_File -INFO - userLoggedin
+2022-02-17 16:58:41,338 - logger_File -INFO - editAffiliate
+2022-02-17 16:58:41,635 - logger_File -INFO - clickOnRadio
+2022-02-17 16:58:42,338 - logger_File -INFO - fillBankInfo
+2022-02-17 16:58:43,003 - logger_File -INFO - clickContinue
+2022-02-17 16:58:43,502 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-02-17 17:00:18,898 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-17 17:00:24,325 - logger_File -INFO - clickMyAccount
+2022-02-17 17:00:25,205 - logger_File -INFO - clickLogin
+2022-02-17 17:00:25,775 - logger_File -INFO - enterUsernamePass
+2022-02-17 17:00:26,637 - logger_File -INFO - clickLogin
+2022-02-17 17:00:26,889 - logger_File -INFO - userLoggedin
+2022-02-17 17:00:27,451 - logger_File -INFO - editAffiliate
+2022-02-17 17:00:27,738 - logger_File -INFO - clickOnRadio
+2022-02-17 17:00:28,615 - logger_File -INFO - fillBankInfo
+2022-02-17 17:00:29,545 - logger_File -INFO - clickContinue
+2022-02-17 17:00:30,172 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-02-17 17:02:40,878 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-17 17:02:46,136 - logger_File -INFO - clickMyAccount
+2022-02-17 17:02:46,935 - logger_File -INFO - clickLogin
+2022-02-17 17:02:47,416 - logger_File -INFO - enterUsernamePass
+2022-02-17 17:02:48,119 - logger_File -INFO - clickLogin
+2022-02-17 17:02:48,442 - logger_File -INFO - userLoggedin
+2022-02-17 17:03:18,958 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-02-17 17:03:18,995 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-17 17:03:23,389 - logger_File -INFO - clickMyAccount
+2022-02-17 17:03:24,114 - logger_File -INFO - clickLogin
+2022-02-17 17:03:24,555 - logger_File -INFO - enterUsernamePass
+2022-02-17 17:03:25,172 - logger_File -INFO - clickLogin
+2022-02-17 17:03:25,466 - logger_File -INFO - userLoggedin
+2022-02-17 17:03:26,091 - logger_File -INFO - editAffiliate
+2022-02-17 17:03:26,410 - logger_File -INFO - clickOnRadio
+2022-02-17 17:03:27,159 - logger_File -INFO - fillBankInfo
+2022-02-17 17:03:27,988 - logger_File -INFO - clickContinue
+2022-02-17 17:03:28,616 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-02-17 17:03:28,671 - logger_File -INFO - Scenario Edit your account Information Started
+2022-02-17 17:03:32,851 - logger_File -INFO - clickMyAccount
+2022-02-17 17:03:33,550 - logger_File -INFO - clickLogin
+2022-02-17 17:03:34,061 - logger_File -INFO - enterUsernamePass
+2022-02-17 17:03:34,673 - logger_File -INFO - clickLogin
+2022-02-17 17:03:34,914 - logger_File -INFO - userLoggedin
+2022-02-17 17:03:35,432 - logger_File -INFO - Scenario Edit your account Information UNDEFINED
+2022-02-17 17:04:26,709 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-17 17:04:32,450 - logger_File -INFO - clickMyAccount
+2022-02-17 17:04:33,151 - logger_File -INFO - clickLogin
+2022-02-17 17:04:33,655 - logger_File -INFO - enterUsernamePass
+2022-02-17 17:04:34,356 - logger_File -INFO - clickLogin
+2022-02-17 17:04:34,627 - logger_File -INFO - userLoggedin
+2022-02-17 17:05:05,163 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-02-17 17:05:05,192 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-17 17:05:09,584 - logger_File -INFO - clickMyAccount
+2022-02-17 17:05:10,349 - logger_File -INFO - clickLogin
+2022-02-17 17:05:10,885 - logger_File -INFO - enterUsernamePass
+2022-02-17 17:05:11,665 - logger_File -INFO - clickLogin
+2022-02-17 17:05:11,964 - logger_File -INFO - userLoggedin
+2022-02-17 17:05:12,571 - logger_File -INFO - editAffiliate
+2022-02-17 17:05:12,887 - logger_File -INFO - clickOnRadio
+2022-02-17 17:05:14,132 - logger_File -INFO - fillBankInfo
+2022-02-17 17:05:14,884 - logger_File -INFO - clickContinue
+2022-02-17 17:05:15,478 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-02-17 17:05:15,537 - logger_File -INFO - Scenario Edit your account Information Started
+2022-02-17 17:05:20,349 - logger_File -INFO - clickMyAccount
+2022-02-17 17:05:21,073 - logger_File -INFO - clickLogin
+2022-02-17 17:05:21,698 - logger_File -INFO - enterUsernamePass
+2022-02-17 17:05:22,421 - logger_File -INFO - clickLogin
+2022-02-17 17:05:22,653 - logger_File -INFO - userLoggedin
+2022-02-17 17:05:22,939 - logger_File -INFO - Scenario Edit your account Information UNDEFINED
+2022-02-17 17:25:22,522 - logger_File -INFO - Scenario Edit your account Information Started
+2022-02-17 17:25:27,876 - logger_File -INFO - clickMyAccount
+2022-02-17 17:25:28,696 - logger_File -INFO - clickLogin
+2022-02-17 17:25:29,175 - logger_File -INFO - enterUsernamePass
+2022-02-17 17:25:29,923 - logger_File -INFO - clickLogin
+2022-02-17 17:25:30,188 - logger_File -INFO - userLoggedin
+2022-02-17 17:25:31,264 - logger_File -INFO - editAccountInfo
+2022-02-17 17:25:32,004 - logger_File -INFO - modifyInfo
+2022-02-17 17:25:32,680 - logger_File -INFO - clickContinue
+2022-02-17 17:25:33,068 - logger_File -INFO - Scenario Edit your account Information FAILED
+2022-02-17 17:26:29,825 - logger_File -INFO - Scenario Edit your account Information Started
+2022-02-17 17:26:35,173 - logger_File -INFO - clickMyAccount
+2022-02-17 17:26:35,880 - logger_File -INFO - clickLogin
+2022-02-17 17:26:36,340 - logger_File -INFO - enterUsernamePass
+2022-02-17 17:26:36,899 - logger_File -INFO - clickLogin
+2022-02-17 17:26:37,202 - logger_File -INFO - userLoggedin
+2022-02-17 17:27:07,729 - logger_File -INFO - Scenario Edit your account Information FAILED
+2022-02-17 17:27:41,317 - logger_File -INFO - Scenario Edit your account Information Started
+2022-02-17 17:27:47,302 - logger_File -INFO - clickMyAccount
+2022-02-17 17:27:48,021 - logger_File -INFO - clickLogin
+2022-02-17 17:27:48,488 - logger_File -INFO - enterUsernamePass
+2022-02-17 17:27:50,119 - logger_File -INFO - clickLogin
+2022-02-17 17:27:50,357 - logger_File -INFO - userLoggedin
+2022-02-17 17:27:51,840 - logger_File -INFO - editAccountInfo
+2022-02-17 17:27:52,577 - logger_File -INFO - modifyInfo
+2022-02-17 17:27:53,149 - logger_File -INFO - clickContinue
+2022-02-17 17:28:23,460 - logger_File -INFO - Scenario Edit your account Information FAILED
+2022-02-17 17:28:44,893 - logger_File -INFO - Scenario Edit your account Information Started
+2022-02-17 17:28:50,092 - logger_File -INFO - clickMyAccount
+2022-02-17 17:28:50,915 - logger_File -INFO - clickLogin
+2022-02-17 17:28:51,455 - logger_File -INFO - enterUsernamePass
+2022-02-17 17:28:52,204 - logger_File -INFO - clickLogin
+2022-02-17 17:28:52,429 - logger_File -INFO - userLoggedin
+2022-02-17 17:28:53,828 - logger_File -INFO - editAccountInfo
+2022-02-17 17:28:54,574 - logger_File -INFO - modifyInfo
+2022-02-17 17:28:55,176 - logger_File -INFO - clickContinue
+2022-02-17 17:28:55,480 - logger_File -INFO - Scenario Edit your account Information FAILED
+2022-02-17 17:29:41,506 - logger_File -INFO - Scenario Edit your account Information Started
+2022-02-17 17:29:46,791 - logger_File -INFO - clickMyAccount
+2022-02-17 17:29:47,549 - logger_File -INFO - clickLogin
+2022-02-17 17:29:48,054 - logger_File -INFO - enterUsernamePass
+2022-02-17 17:29:48,751 - logger_File -INFO - clickLogin
+2022-02-17 17:29:49,025 - logger_File -INFO - userLoggedin
+2022-02-17 17:30:19,536 - logger_File -INFO - Scenario Edit your account Information FAILED
+2022-02-17 17:30:57,135 - logger_File -INFO - Scenario Edit your account Information Started
+2022-02-17 17:31:02,420 - logger_File -INFO - clickMyAccount
+2022-02-17 17:31:03,170 - logger_File -INFO - clickLogin
+2022-02-17 17:31:03,659 - logger_File -INFO - enterUsernamePass
+2022-02-17 17:31:04,267 - logger_File -INFO - clickLogin
+2022-02-17 17:31:04,524 - logger_File -INFO - userLoggedin
+2022-02-17 17:31:35,048 - logger_File -INFO - Scenario Edit your account Information FAILED
+2022-02-17 17:31:44,854 - logger_File -INFO - Scenario Edit your account Information Started
+2022-02-17 17:31:51,293 - logger_File -INFO - clickMyAccount
+2022-02-17 17:31:52,059 - logger_File -INFO - clickLogin
+2022-02-17 17:31:52,562 - logger_File -INFO - enterUsernamePass
+2022-02-17 17:31:53,305 - logger_File -INFO - clickLogin
+2022-02-17 17:31:53,585 - logger_File -INFO - userLoggedin
+2022-02-17 17:31:54,703 - logger_File -INFO - editAccountInfo
+2022-02-17 17:31:55,713 - logger_File -INFO - modifyInfo
+2022-02-17 17:31:56,249 - logger_File -INFO - clickContinue
+2022-02-17 17:32:26,768 - logger_File -INFO - Scenario Edit your account Information FAILED
+2022-02-17 17:32:34,323 - logger_File -INFO - Scenario Edit your account Information Started
+2022-02-17 17:32:39,541 - logger_File -INFO - clickMyAccount
+2022-02-17 17:32:40,254 - logger_File -INFO - clickLogin
+2022-02-17 17:32:40,804 - logger_File -INFO - enterUsernamePass
+2022-02-17 17:32:41,487 - logger_File -INFO - clickLogin
+2022-02-17 17:32:41,760 - logger_File -INFO - userLoggedin
+2022-02-17 17:32:42,908 - logger_File -INFO - editAccountInfo
+2022-02-17 17:32:43,975 - logger_File -INFO - modifyInfo
+2022-02-17 17:32:44,659 - logger_File -INFO - clickContinue
+2022-02-17 17:32:44,883 - logger_File -INFO - user sees message
+2022-02-17 17:32:45,404 - logger_File -INFO - Scenario Edit your account Information PASSED
+2022-02-17 17:35:32,378 - logger_File -INFO - Scenario User verify currency values change Started
+2022-02-17 17:35:38,628 - logger_File -INFO - Scenario User verify currency values change UNDEFINED
+2022-02-17 17:49:52,185 - logger_File -INFO - Scenario User verify currency values change Started
+2022-02-17 17:49:58,583 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-02-17 17:51:46,839 - logger_File -INFO - Scenario User verify currency values change Started
+2022-02-17 17:52:05,299 - logger_File -INFO - Scenario User verify currency values change Started
+2022-02-17 17:52:18,122 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-02-17 17:52:18,247 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2022-02-17 17:52:24,018 - logger_File -INFO - Scenario User empty Shopping cart message displays UNDEFINED
+2022-02-17 18:03:04,733 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2022-02-17 18:03:10,355 - logger_File -INFO - clickOnOpenCart
+2022-02-17 18:03:10,631 - logger_File -INFO - messageDisplay
+2022-02-17 18:03:11,039 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
