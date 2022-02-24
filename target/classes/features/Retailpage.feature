@@ -5,7 +5,7 @@ Background:
 Given User is on Retail website 
 And User click  on MyAccount
 When User click on Login 
-And User enter username "ricardo072323@gmail.com" and password "ricardo" 
+And User enter username "fakeemail@fakey.com" and password "123456" 
 And User click on Login button
 Then User should be logged in to MyAccount dashboard
 
